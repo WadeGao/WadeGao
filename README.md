@@ -37,7 +37,7 @@
 [<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadegao&langs_count=10&layout=compact">](https://github.com/wadegao)
 
 
-[![WadeGao's github activity graph](https://activity-graph.herokuapp.com/graph?username=wadegao&theme=react)](https://github.com/wadegao)
+[![](https://activity-graph.herokuapp.com/graph?username=wadegao&theme=react)](https://github.com/wadegao)
 
 
 <div align="center" style="margin-top:20px">
