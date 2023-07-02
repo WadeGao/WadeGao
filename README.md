@@ -34,7 +34,7 @@
 ## 👨‍💻 My Contribution Details
 <!-- minimal -->
 
-[<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadegao&langs_count=10&layout=compact">](https://github.com/wadegao)
+[<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadegao&langs_count=10&layout=compact&hide=c,Assembly">](https://github.com/wadegao)
 
 
 [![](https://activity-graph.herokuapp.com/graph?username=wadegao&theme=react)](https://github.com/wadegao)
